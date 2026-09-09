@@ -1,0 +1,23 @@
+Id,Text,Command
+0,deschide browserul,open_browser
+1,porneste chrome,open_browser
+2,deschide notepad,open_notepad
+3,porneste editorul,open_notepad
+4,opreste programul,exit_assistant
+5,inchide asistentul,exit_assistant
+6,cauta pe google vremea,search_web
+7,reda muzica,play_music
+8,pune o piesa,play_music
+9,care este ora,get_time
+10,deschide youtube,open_youtube
+11,cauta un tutorial pe youtube,open_youtube
+12,deschide calculatorul,open_calculator
+13,porneste calculatorul,open_calculator
+14,fa un folder nou,create_folder
+15,creaza un director nou,create_folder
+16,cata baterie mai am,get_battery
+17,verifica nivelul bateriei,get_battery
+18,da volumul mai tare,volume_up
+19,creste volumul,volume_up
+20,da volumul mai incet,volume_down
+21,opreste sunetul,mute_audio
